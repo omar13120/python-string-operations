@@ -1,1 +1,1 @@
-# python-string-operations
+string operations project for python class
